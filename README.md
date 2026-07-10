@@ -5,7 +5,7 @@
 ## About
 Graduating with Bsc. Mathematics and minors in Business Admin and Statistics from University of Florida.
 
-Admitted to Technische Universit\"at M\"unchen for Msc. Mathematics.
+Admitted to Technische Universit&auml;t M&uuml;unchen for Msc. Mathematics.  
 *Intended concentration: probability theory*
 
 
@@ -13,7 +13,7 @@ Admitted to Technische Universit\"at M\"unchen for Msc. Mathematics.
 - [Art Portfolio](https://samidavenport.com)
 
 ## Other Versions
-- [TUM Application Version](https://github.com/sambanicula/SamuelDavenport_CV25/blob/main/SamuelDavenportTUM_CV.pdf)
+- [Bewerbung f&uuml;r den Masterstudiengang Mathematik an der TUM](https://github.com/sambanicula/SamuelDavenport_CV25/blob/main/SamuelDavenportTUM_CV.pdf)
 
 ---
 
